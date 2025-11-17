@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-TOKEN = "8282818497:AAFLfLaGp8zJ4_UXYXgP0V9488vyamLKExs
+TOKEN = "8282818497:AAFLfLaGp8zJ4_UXYXgP0V9488vyamLKExs"
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 
 last_update_id = 0
